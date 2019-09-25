@@ -6,7 +6,9 @@ Mahmut Hilmi Arıkmert- 150117024
 
 package main;
 
-
+/*
+Including some javaFx libraries to use
+*/
 
 import java.io.File;
 import java.util.Scanner;
@@ -42,11 +44,11 @@ public class Project extends Application {
     
     Tile[] tiles ;//Tile is a class which extends Reactangle.
     
-    Stage pointer; //Pointer to change primaryStage elemnts.
+    Stage pointer; //Pointer to change primaryStage elements.
      
     BorderPane pointToRoot; //Pointer to change root elements.
     
-    final Circle ball = new Circle (4, 15, 15);//the ball which animeted at the end of each level
+    final Circle ball = new Circle (4, 15, 15);//the ball which animated at the end of each level
    
     int moveCounter=0;//move count for each level
     
@@ -89,10 +91,6 @@ public class Project extends Application {
            reader.close();
             
             return inputStr;
-        
-        
-        
-        
     }
     
     

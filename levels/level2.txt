@@ -2,8 +2,8 @@
 2,Empty,none
 3,Empty,none
 4,Empty,none
-5,Empty,Free
-6,Pipe,Vertical
+5,Pipe,Vertical
+6,Empty,Free
 7,Empty,Free
 8,Empty,Free
 9,Pipe,Vertical
