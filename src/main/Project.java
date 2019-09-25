@@ -1,9 +1,3 @@
-/*
-Mücahit Tanacıoğlu -150115006
-Mahmut Hilmi Arıkmert- 150117024
-
-*/
-
 package main;
 
 /*
